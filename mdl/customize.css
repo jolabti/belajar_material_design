@@ -1,0 +1,21 @@
+.container{
+
+		position: absolute;
+		 width: 100%;
+		height: 65px ;
+		float: left;
+ 		box-shadow: 1px;
+ 		font-family:"Times New Roman";
+}
+
+.sidenavku{
+
+		position: absolute;
+		padding-top: 2px;
+		width: 40%;
+		height: 100%;
+		margin-top: 32px;
+		margin: 0;
+		padding: 0; 
+	 	 
+}
